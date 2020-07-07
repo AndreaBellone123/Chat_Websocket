@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <EditText
+        android:id="@+id/nameEditL"
+        android:layout_width="396dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_margin="8dp"
+        android:hint="@string/inserisci_il_tuo_nome"
+        />
+
+    <EditText
+        android:id="@+id/passwordEditL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nameEditL"
+        android:layout_margin="8dp"
+        android:hint="Enter password"
+        android:inputType="textPassword" />
+
+    />
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_margin="4dp"
+        android:text="Log in"/>
+
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NodeJsChat</string>
+    <string name="inserisci_la_password">Inserisci la password</string>
+    <string name="registrati">Registrati</string>
+    <string name="accedi">Accedi</string>
+    <string name="oppure">oppure</string>
+    <string name="messaggio">Messaggio..</string>
+    <string name="invia">Invia</string>
+    <string name="media">media</string>
+    <string name="nome">Nome</string>
+    <string name="messaggio_di_prova">Messaggio di prova</string>
+    <string name="inserisci_il_tuo_nome">Inserisci il tuo nome</string>
+</resources>
